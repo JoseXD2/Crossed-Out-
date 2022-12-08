@@ -1,0 +1,32 @@
+{
+	"storyName": "by mike Geno, Mod by Unbekannt                   -",
+	"difficulties": "Saruky, Bad",
+	"hideFreeplay": false,
+	"weekBackground": "crossedout",
+	"weekBefore": "",
+	"freeplayColor": [
+		0,
+		247,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bad-Time",
+			"nightmare-sans",
+			[
+				0,
+				247,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu_bendy_low",
+		"menu_cuphead_low",
+		"menu_sans_low"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "CrossedOut Low chart - Unbk"
+}

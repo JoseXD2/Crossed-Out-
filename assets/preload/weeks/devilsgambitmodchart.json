@@ -1,0 +1,33 @@
+{
+	"storyName": "indie Cross Nightmare Songs",
+	"difficulties": "Devilish",
+	"hideFreeplay": false,
+	"weekBackground": "IndieCross/menu_black",
+	"weekBefore": "",
+	"freeplayColor": [
+		255,
+		0,
+		102
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Devils Gambit",
+			"nightmare-cuphead",
+			[
+				255,
+		0,
+		102
+			]
+		]
+		
+	],
+	"weekCharacters": [
+		"",
+		"IndieCross/NightmareWeek",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Nightmare-Week"
+}
